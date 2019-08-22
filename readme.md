@@ -1,3 +1,16 @@
+# TO DO List
+
+- [ ] 算法图解
+- [ ] 剑指offer
+- [ ] 计算机基础
+- [ ] 云计算课件
+- [ ] 大数据课件
+- [ ] Leetcode刷题
+- [ ] 牛客刷题+练习
+- [ ] Github上各种资料库
+
+
+
 # 参考资料
 
 - CS技术面试基础知识https://cyc2018.github.io/CS-Notes/#/
@@ -28,6 +41,6 @@
 - 牛客网《剑指offer》刷题https://www.nowcoder.com/ta/coding-interviews
 - LeetCode刷题https://leetcode.com/problemset/algorithms
 - LeetCode All in One 题目讲解汇总（作者Grandyang刷完了leetcode几乎所有题目，刷了800+，而且笔记整理的十分认真，太牛了~~ ）http://www.cnblogs.com/grandyang/p/4606334.html
-- Leetcode 400+250题
+- Leetcode 400+250题https://cspiration.com/leetcodeClassification#1
 - LeetCode题型汇总https://blog.csdn.net/kk55guang2/article/details/85223256
 
