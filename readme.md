@@ -8,6 +8,12 @@
 - [ ] Leetcode刷题
 - [ ] 牛客刷题+练习
 - [ ] Github上各种资料库
+- [ ] JAVA spring 多线程
+- [ ] MySQL
+- [ ] C C++指针表达
+- [ ] 网络协议
+- [ ] Hive
+- [ ] kubernetes
 
 
 
